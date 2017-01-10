@@ -16,7 +16,7 @@ MEMRISE.garden.feedback.start = function (){
     if (MEMRISE.garden.box.state === 'choosing-mem') {
         oldstart(1);
     }else{
-        MEMRISE.garden.box.next_press();
+        setTimeout(function(){ MEMRISE.garden.box.next_press(); }, 500);
     }
 };
 
