@@ -2,9 +2,9 @@
 // @name           Memrise Turbo
 // @namespace      https://github.com/infofarmer
 // @description    Makes Memrise faster
-// @match          http://www.memrise.com/course/*/garden/*
-// @match          http://www.memrise.com/garden/water/*
-// @match          http://www.memrise.com/garden/review/*
+// @match          https://www.memrise.com/course/*/garden/*
+// @match          https://www.memrise.com/garden/water/*
+// @match          https://www.memrise.com/garden/review/*
 // @version        0.1.8
 // @updateURL      https://github.com/infofarmer/memrise-turbo/raw/master/MemriseTurbo.user.js
 // @downloadURL    https://github.com/infofarmer/memrise-turbo/raw/master/MemriseTurbo.user.js
