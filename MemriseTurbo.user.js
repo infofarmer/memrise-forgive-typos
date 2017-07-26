@@ -5,6 +5,8 @@
 // @match          http://www.memrise.com/course/*/garden/*
 // @match          http://www.memrise.com/garden/water/*
 // @match          http://www.memrise.com/garden/review/*
+// @match          https://www.memrise.com/course/*/*/garden/review/
+// @match          https://www.memrise.com/course/*/*/garden/learn/
 // @version        0.1.8
 // @updateURL      https://github.com/infofarmer/memrise-turbo/raw/master/MemriseTurbo.user.js
 // @downloadURL    https://github.com/infofarmer/memrise-turbo/raw/master/MemriseTurbo.user.js
